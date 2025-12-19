@@ -1,0 +1,17 @@
+"mushop-basic-stack.0230603": {
+    "solutionExposure": "prod",
+    "name": "${Messages.solutionsHub.solutions.sampleECommerceWithAlwaysFree.solutionName()}",
+    "description": "${Messages.solutionsHub.solutions.sampleECommerceWithAlwaysFree.stackDescription()}",
+    "longDescription": {
+        "description": "${Messages.solutionsHub.solutions.sampleECommerceWithAlwaysFree.longDescription()}"
+    },
+    "icon": {
+        "iconLine1": "Sample",
+        "iconLine2": "E-Commerce",
+        "iconLine3": "App (MuShop)"
+    },
+    "terraformVersion": "1.5.x",
+    "isFreeTier": true,
+    "type": "architecture",
+    "categoryId": "2"
+}
