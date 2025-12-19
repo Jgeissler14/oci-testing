@@ -1,3 +1,7 @@
+variable "compartment_id" {
+  description = "The OCID of the compartment to create resources in."
+  type        = string
+}
 
 variable "env" {
   description = "The environment name, e.g., dev, stage, prod."
